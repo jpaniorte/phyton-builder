@@ -1,0 +1,8 @@
+pyyaml
+click
+jsonpath-rw
+requests 
+Flask
+pytest
+pytest-html
+toposort
